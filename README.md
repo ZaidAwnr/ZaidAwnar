@@ -79,7 +79,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZaidAwnr/ZaidAwnr/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/ZaidAwnr/ZaidAwnr/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
